@@ -16,5 +16,5 @@ anesmemisevic@Aness-MacBook-Air src % java App
 
 ## How to test:
 
-Testing methods provided in the App class
+Testing methods provided in the App class,
 I ranked them as in the pdf.
