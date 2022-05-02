@@ -1,0 +1,2298 @@
+anesmemisevic@Aness-MacBook-Air src % javac Cards.java
+anesmemisevic@Aness-MacBook-Air src % javac Player.java
+anesmemisevic@Aness-MacBook-Air src % javac App.java
+anesmemisevic@Aness-MacBook-Air src % java App
+Player 1 (20 cards): 4
+Player 2 (20 cards): 10
+Player 2 wins this round.
+
+Player 1 (19 cards): 9
+Player 2 (21 cards): 5
+Player 1 wins this round.
+
+Player 1 (20 cards): 9
+Player 2 (20 cards): 9
+No winner in this round.
+
+Player 1 (19 cards): 1
+Player 2 (19 cards): 8
+Player 2 wins this round.
+
+Player 1 (18 cards): 4
+Player 2 (22 cards): 10
+Player 2 wins this round.
+
+Player 1 (17 cards): 7
+Player 2 (23 cards): 4
+Player 1 wins this round.
+
+Player 1 (18 cards): 6
+Player 2 (22 cards): 4
+Player 1 wins this round.
+
+Player 1 (19 cards): 10
+Player 2 (21 cards): 6
+Player 1 wins this round.
+
+Player 1 (20 cards): 1
+Player 2 (20 cards): 1
+No winner in this round.
+
+Player 1 (19 cards): 9
+Player 2 (19 cards): 4
+Player 1 wins this round.
+
+Player 1 (22 cards): 5
+Player 2 (18 cards): 10
+Player 2 wins this round.
+
+Player 1 (21 cards): 8
+Player 2 (19 cards): 8
+No winner in this round.
+
+Player 1 (20 cards): 10
+Player 2 (18 cards): 7
+Player 1 wins this round.
+
+Player 1 (23 cards): 5
+Player 2 (17 cards): 3
+Player 1 wins this round.
+
+Player 1 (24 cards): 10
+Player 2 (16 cards): 1
+Player 1 wins this round.
+
+Player 1 (25 cards): 4
+Player 2 (15 cards): 7
+Player 2 wins this round.
+
+Player 1 (24 cards): 6
+Player 2 (16 cards): 6
+No winner in this round.
+
+Player 1 (23 cards): 8
+Player 2 (15 cards): 5
+Player 1 wins this round.
+
+Player 1 (26 cards): 7
+Player 2 (14 cards): 9
+Player 2 wins this round.
+
+Player 1 (25 cards): 3
+Player 2 (15 cards): 9
+Player 2 wins this round.
+
+Player 1 (24 cards): 3
+Player 2 (16 cards): 1
+Player 1 wins this round.
+
+Player 1 (25 cards): 5
+Player 2 (15 cards): 10
+Player 2 wins this round.
+
+Player 1 (24 cards): 4
+Player 2 (16 cards): 9
+Player 2 wins this round.
+
+Player 1 (23 cards): 1
+Player 2 (17 cards): 4
+Player 2 wins this round.
+
+Player 1 (22 cards): 7
+Player 2 (18 cards): 8
+Player 2 wins this round.
+
+Player 1 (21 cards): 5
+Player 2 (19 cards): 9
+Player 2 wins this round.
+
+Player 1 (20 cards): 7
+Player 2 (20 cards): 10
+Player 2 wins this round.
+
+Player 1 (19 cards): 8
+Player 2 (21 cards): 4
+Player 1 wins this round.
+
+Player 1 (20 cards): 6
+Player 2 (20 cards): 10
+Player 2 wins this round.
+
+Player 1 (19 cards): 9
+Player 2 (21 cards): 5
+Player 1 wins this round.
+
+Player 1 (20 cards): 6
+Player 2 (20 cards): 7
+Player 2 wins this round.
+
+Player 1 (19 cards): 10
+Player 2 (21 cards): 4
+Player 1 wins this round.
+
+Player 1 (20 cards): 6
+Player 2 (20 cards): 9
+Player 2 wins this round.
+
+Player 1 (19 cards): 8
+Player 2 (21 cards): 7
+Player 1 wins this round.
+
+Player 1 (20 cards): 9
+Player 2 (20 cards): 9
+No winner in this round.
+
+Player 1 (19 cards): 6
+Player 2 (19 cards): 3
+Player 1 wins this round.
+
+Player 1 (22 cards): 4
+Player 2 (18 cards): 10
+Player 2 wins this round.
+
+Player 1 (21 cards): 4
+Player 2 (19 cards): 5
+Player 2 wins this round.
+
+Player 1 (20 cards): 1
+Player 2 (20 cards): 9
+Player 2 wins this round.
+
+Player 1 (19 cards): 8
+Player 2 (21 cards): 4
+Player 1 wins this round.
+
+Player 1 (20 cards): 5
+Player 2 (20 cards): 4
+Player 1 wins this round.
+
+Player 1 (21 cards): 1
+Player 2 (19 cards): 1
+No winner in this round.
+
+Player 1 (20 cards): 10
+Player 2 (18 cards): 8
+Player 1 wins this round.
+
+Player 1 (23 cards): 10
+Player 2 (17 cards): 7
+Player 1 wins this round.
+
+Player 1 (24 cards): 9
+Player 2 (16 cards): 9
+No winner in this round.
+
+Player 1 (23 cards): 9
+Player 2 (15 cards): 5
+Player 1 wins this round.
+
+Player 1 (26 cards): 6
+Player 2 (14 cards): 10
+Player 2 wins this round.
+
+Player 1 (25 cards): 4
+Player 2 (15 cards): 7
+Player 2 wins this round.
+
+Player 1 (24 cards): 5
+Player 2 (16 cards): 10
+Player 2 wins this round.
+
+Player 1 (23 cards): 8
+Player 2 (17 cards): 6
+Player 1 wins this round.
+
+Player 1 (24 cards): 8
+Player 2 (16 cards): 7
+Player 1 wins this round.
+
+Player 1 (25 cards): 1
+Player 2 (15 cards): 6
+Player 2 wins this round.
+
+Player 1 (24 cards): 8
+Player 2 (16 cards): 9
+Player 2 wins this round.
+
+Player 1 (23 cards): 3
+Player 2 (17 cards): 6
+Player 2 wins this round.
+
+Player 1 (22 cards): 1
+Player 2 (18 cards): 10
+Player 2 wins this round.
+
+Player 1 (21 cards): 4
+Player 2 (19 cards): 4
+No winner in this round.
+
+Player 1 (20 cards): 8
+Player 2 (18 cards): 5
+Player 1 wins this round.
+
+Player 1 (23 cards): 4
+Player 2 (17 cards): 4
+No winner in this round.
+
+Player 1 (22 cards): 7
+Player 2 (16 cards): 9
+Player 2 wins this round.
+
+Player 1 (21 cards): 10
+Player 2 (19 cards): 1
+Player 1 wins this round.
+
+Player 1 (22 cards): 10
+Player 2 (18 cards): 10
+No winner in this round.
+
+Player 1 (21 cards): 5
+Player 2 (17 cards): 6
+Player 2 wins this round.
+
+Player 1 (20 cards): 4
+Player 2 (20 cards): 7
+Player 2 wins this round.
+
+Player 1 (19 cards): 3
+Player 2 (21 cards): 4
+Player 2 wins this round.
+
+Player 1 (18 cards): 9
+Player 2 (22 cards): 10
+Player 2 wins this round.
+
+Player 1 (17 cards): 1
+Player 2 (23 cards): 5
+Player 2 wins this round.
+
+Player 1 (16 cards): 10
+Player 2 (24 cards): 6
+Player 1 wins this round.
+
+Player 1 (17 cards): 7
+Player 2 (23 cards): 1
+Player 1 wins this round.
+
+Player 1 (18 cards): 9
+Player 2 (22 cards): 9
+No winner in this round.
+
+Player 1 (17 cards): 5
+Player 2 (21 cards): 8
+Player 2 wins this round.
+
+Player 1 (16 cards): 9
+Player 2 (24 cards): 6
+Player 1 wins this round.
+
+Player 1 (17 cards): 8
+Player 2 (23 cards): 3
+Player 1 wins this round.
+
+Player 1 (18 cards): 5
+Player 2 (22 cards): 10
+Player 2 wins this round.
+
+Player 1 (17 cards): 6
+Player 2 (23 cards): 4
+Player 1 wins this round.
+
+Player 1 (18 cards): 7
+Player 2 (22 cards): 7
+No winner in this round.
+
+Player 1 (17 cards): 4
+Player 2 (21 cards): 1
+Player 1 wins this round.
+
+Player 1 (20 cards): 8
+Player 2 (20 cards): 10
+Player 2 wins this round.
+
+Player 1 (19 cards): 8
+Player 2 (21 cards): 1
+Player 1 wins this round.
+
+Player 1 (20 cards): 9
+Player 2 (20 cards): 9
+No winner in this round.
+
+Player 1 (19 cards): 4
+Player 2 (19 cards): 5
+Player 2 wins this round.
+
+Player 1 (18 cards): 10
+Player 2 (22 cards): 4
+Player 1 wins this round.
+
+Player 1 (19 cards): 1
+Player 2 (21 cards): 9
+Player 2 wins this round.
+
+Player 1 (18 cards): 10
+Player 2 (22 cards): 5
+Player 1 wins this round.
+
+Player 1 (19 cards): 6
+Player 2 (21 cards): 4
+Player 1 wins this round.
+
+Player 1 (20 cards): 7
+Player 2 (20 cards): 3
+Player 1 wins this round.
+
+Player 1 (21 cards): 1
+Player 2 (19 cards): 10
+Player 2 wins this round.
+
+Player 1 (20 cards): 8
+Player 2 (20 cards): 5
+Player 1 wins this round.
+
+Player 1 (21 cards): 6
+Player 2 (19 cards): 9
+Player 2 wins this round.
+
+Player 1 (20 cards): 9
+Player 2 (20 cards): 7
+Player 1 wins this round.
+
+Player 1 (21 cards): 6
+Player 2 (19 cards): 10
+Player 2 wins this round.
+
+Player 1 (20 cards): 1
+Player 2 (20 cards): 8
+Player 2 wins this round.
+
+Player 1 (19 cards): 4
+Player 2 (21 cards): 9
+Player 2 wins this round.
+
+Player 1 (18 cards): 3
+Player 2 (22 cards): 4
+Player 2 wins this round.
+
+Player 1 (17 cards): 4
+Player 2 (23 cards): 6
+Player 2 wins this round.
+
+Player 1 (16 cards): 7
+Player 2 (24 cards): 10
+Player 2 wins this round.
+
+Player 1 (15 cards): 7
+Player 2 (25 cards): 5
+Player 1 wins this round.
+
+Player 1 (16 cards): 8
+Player 2 (24 cards): 9
+Player 2 wins this round.
+
+Player 1 (15 cards): 1
+Player 2 (25 cards): 10
+Player 2 wins this round.
+
+Player 1 (14 cards): 10
+Player 2 (26 cards): 8
+Player 1 wins this round.
+
+Player 1 (15 cards): 4
+Player 2 (25 cards): 9
+Player 2 wins this round.
+
+Player 1 (14 cards): 10
+Player 2 (26 cards): 4
+Player 1 wins this round.
+
+Player 1 (15 cards): 5
+Player 2 (25 cards): 5
+No winner in this round.
+
+Player 1 (14 cards): 6
+Player 2 (24 cards): 9
+Player 2 wins this round.
+
+Player 1 (13 cards): 4
+Player 2 (27 cards): 1
+Player 1 wins this round.
+
+Player 1 (14 cards): 7
+Player 2 (26 cards): 10
+Player 2 wins this round.
+
+Player 1 (13 cards): 3
+Player 2 (27 cards): 1
+Player 1 wins this round.
+
+Player 1 (14 cards): 8
+Player 2 (26 cards): 9
+Player 2 wins this round.
+
+Player 1 (13 cards): 5
+Player 2 (27 cards): 6
+Player 2 wins this round.
+
+Player 1 (12 cards): 9
+Player 2 (28 cards): 10
+Player 2 wins this round.
+
+Player 1 (11 cards): 7
+Player 2 (29 cards): 6
+Player 1 wins this round.
+
+Player 1 (12 cards): 7
+Player 2 (28 cards): 8
+Player 2 wins this round.
+
+Player 1 (11 cards): 5
+Player 2 (29 cards): 1
+Player 1 wins this round.
+
+Player 1 (12 cards): 10
+Player 2 (28 cards): 9
+Player 1 wins this round.
+
+Player 1 (13 cards): 8
+Player 2 (27 cards): 4
+Player 1 wins this round.
+
+Player 1 (14 cards): 10
+Player 2 (26 cards): 4
+Player 1 wins this round.
+
+Player 1 (15 cards): 4
+Player 2 (25 cards): 3
+Player 1 wins this round.
+
+Player 1 (16 cards): 4
+Player 2 (24 cards): 6
+Player 2 wins this round.
+
+Player 1 (15 cards): 1
+Player 2 (25 cards): 4
+Player 2 wins this round.
+
+Player 1 (14 cards): 3
+Player 2 (26 cards): 10
+Player 2 wins this round.
+
+Player 1 (13 cards): 1
+Player 2 (27 cards): 5
+Player 2 wins this round.
+
+Player 1 (12 cards): 7
+Player 2 (28 cards): 1
+Player 1 wins this round.
+
+Player 1 (13 cards): 6
+Player 2 (27 cards): 8
+Player 2 wins this round.
+
+Player 1 (12 cards): 5
+Player 2 (28 cards): 7
+Player 2 wins this round.
+
+Player 1 (11 cards): 1
+Player 2 (29 cards): 10
+Player 2 wins this round.
+
+Player 1 (10 cards): 10
+Player 2 (30 cards): 5
+Player 1 wins this round.
+
+Player 1 (11 cards): 9
+Player 2 (29 cards): 6
+Player 1 wins this round.
+
+Player 1 (12 cards): 8
+Player 2 (28 cards): 9
+Player 2 wins this round.
+
+Player 1 (11 cards): 4
+Player 2 (29 cards): 9
+Player 2 wins this round.
+
+Player 1 (10 cards): 10
+Player 2 (30 cards): 4
+Player 1 wins this round.
+
+Player 1 (11 cards): 4
+Player 2 (29 cards): 9
+Player 2 wins this round.
+
+Player 1 (10 cards): 4
+Player 2 (30 cards): 10
+Player 2 wins this round.
+
+Player 1 (9 cards): 3
+Player 2 (31 cards): 7
+Player 2 wins this round.
+
+Player 1 (8 cards): 7
+Player 2 (32 cards): 9
+Player 2 wins this round.
+
+Player 1 (7 cards): 1
+Player 2 (33 cards): 8
+Player 2 wins this round.
+
+Player 1 (6 cards): 10
+Player 2 (34 cards): 6
+Player 1 wins this round.
+
+Player 1 (7 cards): 5
+Player 2 (33 cards): 5
+No winner in this round.
+
+Player 1 (6 cards): 9
+Player 2 (32 cards): 10
+Player 2 wins this round.
+
+Player 1 (5 cards): 6
+Player 2 (35 cards): 9
+Player 2 wins this round.
+
+Player 1 (4 cards): 10
+Player 2 (36 cards): 8
+Player 1 wins this round.
+
+Player 1 (5 cards): 4
+Player 2 (35 cards): 7
+Player 2 wins this round.
+
+Player 1 (4 cards): 10
+Player 2 (36 cards): 6
+Player 1 wins this round.
+
+Player 1 (5 cards): 6
+Player 2 (35 cards): 4
+Player 1 wins this round.
+
+Player 1 (6 cards): 10
+Player 2 (34 cards): 4
+Player 1 wins this round.
+
+Player 1 (7 cards): 8
+Player 2 (33 cards): 1
+Player 1 wins this round.
+
+Player 1 (8 cards): 10
+Player 2 (32 cards): 10
+No winner in this round.
+
+Player 1 (7 cards): 6
+Player 2 (31 cards): 4
+Player 1 wins this round.
+
+Player 1 (10 cards): 6
+Player 2 (30 cards): 9
+Player 2 wins this round.
+
+Player 1 (9 cards): 4
+Player 2 (31 cards): 7
+Player 2 wins this round.
+
+Player 1 (8 cards): 10
+Player 2 (32 cards): 5
+Player 1 wins this round.
+
+Player 1 (9 cards): 4
+Player 2 (31 cards): 8
+Player 2 wins this round.
+
+Player 1 (8 cards): 8
+Player 2 (32 cards): 8
+No winner in this round.
+
+Player 1 (7 cards): 1
+Player 2 (31 cards): 9
+Player 2 wins this round.
+
+Player 1 (6 cards): 10
+Player 2 (34 cards): 3
+Player 1 wins this round.
+
+Player 1 (7 cards): 6
+Player 2 (33 cards): 10
+Player 2 wins this round.
+
+Player 1 (6 cards): 10
+Player 2 (34 cards): 10
+No winner in this round.
+
+Player 1 (5 cards): 4
+Player 2 (33 cards): 1
+Player 1 wins this round.
+
+Player 1 (8 cards): 10
+Player 2 (32 cards): 1
+Player 1 wins this round.
+
+Player 1 (9 cards): 5
+Player 2 (31 cards): 5
+No winner in this round.
+
+Player 1 (8 cards): 10
+Player 2 (30 cards): 4
+Player 1 wins this round.
+
+Player 1 (11 cards): 10
+Player 2 (29 cards): 5
+Player 1 wins this round.
+
+Player 1 (12 cards): 3
+Player 2 (28 cards): 9
+Player 2 wins this round.
+
+Player 1 (11 cards): 1
+Player 2 (29 cards): 9
+Player 2 wins this round.
+
+Player 1 (10 cards): 10
+Player 2 (30 cards): 7
+Player 1 wins this round.
+
+Player 1 (11 cards): 4
+Player 2 (29 cards): 3
+Player 1 wins this round.
+
+Player 1 (12 cards): 10
+Player 2 (28 cards): 6
+Player 1 wins this round.
+
+Player 1 (13 cards): 1
+Player 2 (27 cards): 8
+Player 2 wins this round.
+
+Player 1 (12 cards): 5
+Player 2 (28 cards): 7
+Player 2 wins this round.
+
+Player 1 (11 cards): 10
+Player 2 (29 cards): 4
+Player 1 wins this round.
+
+Player 1 (12 cards): 4
+Player 2 (28 cards): 1
+Player 1 wins this round.
+
+Player 1 (13 cards): 5
+Player 2 (27 cards): 10
+Player 2 wins this round.
+
+Player 1 (12 cards): 10
+Player 2 (28 cards): 5
+Player 1 wins this round.
+
+Player 1 (13 cards): 5
+Player 2 (27 cards): 9
+Player 2 wins this round.
+
+Player 1 (12 cards): 10
+Player 2 (28 cards): 9
+Player 1 wins this round.
+
+Player 1 (13 cards): 7
+Player 2 (27 cards): 6
+Player 1 wins this round.
+
+Player 1 (14 cards): 4
+Player 2 (26 cards): 7
+Player 2 wins this round.
+
+Player 1 (13 cards): 3
+Player 2 (27 cards): 4
+Player 2 wins this round.
+
+Player 1 (12 cards): 10
+Player 2 (28 cards): 8
+Player 1 wins this round.
+
+Player 1 (13 cards): 6
+Player 2 (27 cards): 7
+Player 2 wins this round.
+
+Player 1 (12 cards): 10
+Player 2 (28 cards): 1
+Player 1 wins this round.
+
+Player 1 (13 cards): 4
+Player 2 (27 cards): 8
+Player 2 wins this round.
+
+Player 1 (12 cards): 4
+Player 2 (28 cards): 9
+Player 2 wins this round.
+
+Player 1 (11 cards): 1
+Player 2 (29 cards): 9
+Player 2 wins this round.
+
+Player 1 (10 cards): 10
+Player 2 (30 cards): 8
+Player 1 wins this round.
+
+Player 1 (11 cards): 5
+Player 2 (29 cards): 4
+Player 1 wins this round.
+
+Player 1 (12 cards): 10
+Player 2 (28 cards): 4
+Player 1 wins this round.
+
+Player 1 (13 cards): 9
+Player 2 (27 cards): 6
+Player 1 wins this round.
+
+Player 1 (14 cards): 7
+Player 2 (26 cards): 10
+Player 2 wins this round.
+
+Player 1 (13 cards): 6
+Player 2 (27 cards): 6
+No winner in this round.
+
+Player 1 (12 cards): 10
+Player 2 (26 cards): 9
+Player 1 wins this round.
+
+Player 1 (15 cards): 8
+Player 2 (25 cards): 3
+Player 1 wins this round.
+
+Player 1 (16 cards): 8
+Player 2 (24 cards): 9
+Player 2 wins this round.
+
+Player 1 (15 cards): 10
+Player 2 (25 cards): 1
+Player 1 wins this round.
+
+Player 1 (16 cards): 9
+Player 2 (24 cards): 8
+Player 1 wins this round.
+
+Player 1 (17 cards): 1
+Player 2 (23 cards): 1
+No winner in this round.
+
+Player 1 (16 cards): 10
+Player 2 (22 cards): 7
+Player 1 wins this round.
+
+Player 1 (19 cards): 10
+Player 2 (21 cards): 5
+Player 1 wins this round.
+
+Player 1 (20 cards): 5
+Player 2 (20 cards): 10
+Player 2 wins this round.
+
+Player 1 (19 cards): 6
+Player 2 (21 cards): 5
+Player 1 wins this round.
+
+Player 1 (20 cards): 6
+Player 2 (20 cards): 9
+Player 2 wins this round.
+
+Player 1 (19 cards): 9
+Player 2 (21 cards): 5
+Player 1 wins this round.
+
+Player 1 (20 cards): 6
+Player 2 (20 cards): 7
+Player 2 wins this round.
+
+Player 1 (19 cards): 4
+Player 2 (21 cards): 4
+No winner in this round.
+
+Player 1 (17 cards): 10
+Player 2 (19 cards): 3
+Player 1 wins this round.
+
+Player 1 (22 cards): 8
+Player 2 (18 cards): 7
+Player 1 wins this round.
+
+Player 1 (23 cards): 3
+Player 2 (17 cards): 6
+Player 2 wins this round.
+
+Player 1 (22 cards): 1
+Player 2 (18 cards): 8
+Player 2 wins this round.
+
+Player 1 (21 cards): 10
+Player 2 (19 cards): 4
+Player 1 wins this round.
+
+Player 1 (22 cards): 3
+Player 2 (18 cards): 9
+Player 2 wins this round.
+
+Player 1 (21 cards): 6
+Player 2 (19 cards): 4
+Player 1 wins this round.
+
+Player 1 (22 cards): 10
+Player 2 (18 cards): 9
+Player 1 wins this round.
+
+Player 1 (23 cards): 4
+Player 2 (17 cards): 1
+Player 1 wins this round.
+
+Player 1 (24 cards): 1
+Player 2 (16 cards): 10
+Player 2 wins this round.
+
+Player 1 (23 cards): 4
+Player 2 (17 cards): 7
+Player 2 wins this round.
+
+Player 1 (22 cards): 7
+Player 2 (18 cards): 9
+Player 2 wins this round.
+
+Player 1 (21 cards): 10
+Player 2 (19 cards): 8
+Player 1 wins this round.
+
+Player 1 (22 cards): 9
+Player 2 (18 cards): 10
+Player 2 wins this round.
+
+Player 1 (21 cards): 4
+Player 2 (19 cards): 5
+Player 2 wins this round.
+
+Player 1 (20 cards): 9
+Player 2 (20 cards): 9
+No winner in this round.
+
+Player 1 (19 cards): 1
+Player 2 (19 cards): 6
+Player 2 wins this round.
+
+Player 1 (18 cards): 5
+Player 2 (22 cards): 7
+Player 2 wins this round.
+
+Player 1 (17 cards): 8
+Player 2 (23 cards): 6
+Player 1 wins this round.
+
+Player 1 (18 cards): 10
+Player 2 (22 cards): 3
+Player 1 wins this round.
+
+Player 1 (19 cards): 4
+Player 2 (21 cards): 10
+Player 2 wins this round.
+
+Player 1 (18 cards): 5
+Player 2 (22 cards): 7
+Player 2 wins this round.
+
+Player 1 (17 cards): 5
+Player 2 (23 cards): 4
+Player 1 wins this round.
+
+Player 1 (18 cards): 8
+Player 2 (22 cards): 8
+No winner in this round.
+
+Player 1 (17 cards): 7
+Player 2 (21 cards): 4
+Player 1 wins this round.
+
+Player 1 (20 cards): 8
+Player 2 (20 cards): 9
+Player 2 wins this round.
+
+Player 1 (19 cards): 4
+Player 2 (21 cards): 1
+Player 1 wins this round.
+
+Player 1 (20 cards): 1
+Player 2 (20 cards): 9
+Player 2 wins this round.
+
+Player 1 (19 cards): 5
+Player 2 (21 cards): 9
+Player 2 wins this round.
+
+Player 1 (18 cards): 6
+Player 2 (22 cards): 7
+Player 2 wins this round.
+
+Player 1 (17 cards): 10
+Player 2 (23 cards): 1
+Player 1 wins this round.
+
+Player 1 (18 cards): 10
+Player 2 (22 cards): 9
+Player 1 wins this round.
+
+Player 1 (19 cards): 8
+Player 2 (21 cards): 9
+Player 2 wins this round.
+
+Player 1 (18 cards): 3
+Player 2 (22 cards): 6
+Player 2 wins this round.
+
+Player 1 (17 cards): 4
+Player 2 (23 cards): 3
+Player 1 wins this round.
+
+Player 1 (18 cards): 10
+Player 2 (22 cards): 5
+Player 1 wins this round.
+
+Player 1 (19 cards): 4
+Player 2 (21 cards): 10
+Player 2 wins this round.
+
+Player 1 (18 cards): 8
+Player 2 (22 cards): 1
+Player 1 wins this round.
+
+Player 1 (19 cards): 9
+Player 2 (21 cards): 6
+Player 1 wins this round.
+
+Player 1 (20 cards): 10
+Player 2 (20 cards): 7
+Player 1 wins this round.
+
+Player 1 (21 cards): 4
+Player 2 (19 cards): 5
+Player 2 wins this round.
+
+Player 1 (20 cards): 7
+Player 2 (20 cards): 10
+Player 2 wins this round.
+
+Player 1 (19 cards): 8
+Player 2 (21 cards): 4
+Player 1 wins this round.
+
+Player 1 (20 cards): 6
+Player 2 (20 cards): 7
+Player 2 wins this round.
+
+Player 1 (19 cards): 4
+Player 2 (21 cards): 5
+Player 2 wins this round.
+
+Player 1 (18 cards): 4
+Player 2 (22 cards): 9
+Player 2 wins this round.
+
+Player 1 (17 cards): 1
+Player 2 (23 cards): 8
+Player 2 wins this round.
+
+Player 1 (16 cards): 10
+Player 2 (24 cards): 9
+Player 1 wins this round.
+
+Player 1 (17 cards): 1
+Player 2 (23 cards): 1
+No winner in this round.
+
+Player 1 (16 cards): 10
+Player 2 (22 cards): 9
+Player 1 wins this round.
+
+Player 1 (19 cards): 9
+Player 2 (21 cards): 5
+Player 1 wins this round.
+
+Player 1 (20 cards): 4
+Player 2 (20 cards): 7
+Player 2 wins this round.
+
+Player 1 (19 cards): 3
+Player 2 (21 cards): 6
+Player 2 wins this round.
+
+Player 1 (18 cards): 10
+Player 2 (22 cards): 9
+Player 1 wins this round.
+
+Player 1 (19 cards): 5
+Player 2 (21 cards): 8
+Player 2 wins this round.
+
+Player 1 (18 cards): 8
+Player 2 (22 cards): 6
+Player 1 wins this round.
+
+Player 1 (19 cards): 1
+Player 2 (21 cards): 3
+Player 2 wins this round.
+
+Player 1 (18 cards): 9
+Player 2 (22 cards): 10
+Player 2 wins this round.
+
+Player 1 (17 cards): 6
+Player 2 (23 cards): 4
+Player 1 wins this round.
+
+Player 1 (18 cards): 10
+Player 2 (22 cards): 5
+Player 1 wins this round.
+
+Player 1 (19 cards): 7
+Player 2 (21 cards): 4
+Player 1 wins this round.
+
+Player 1 (20 cards): 8
+Player 2 (20 cards): 10
+Player 2 wins this round.
+
+Player 1 (19 cards): 4
+Player 2 (21 cards): 7
+Player 2 wins this round.
+
+Player 1 (18 cards): 9
+Player 2 (22 cards): 7
+Player 1 wins this round.
+
+Player 1 (19 cards): 10
+Player 2 (21 cards): 6
+Player 1 wins this round.
+
+Player 1 (20 cards): 10
+Player 2 (20 cards): 5
+Player 1 wins this round.
+
+Player 1 (21 cards): 1
+Player 2 (19 cards): 4
+Player 2 wins this round.
+
+Player 1 (20 cards): 9
+Player 2 (20 cards): 9
+No winner in this round.
+
+Player 1 (19 cards): 1
+Player 2 (19 cards): 4
+Player 2 wins this round.
+
+Player 1 (18 cards): 9
+Player 2 (22 cards): 8
+Player 1 wins this round.
+
+Player 1 (19 cards): 5
+Player 2 (21 cards): 1
+Player 1 wins this round.
+
+Player 1 (20 cards): 10
+Player 2 (20 cards): 7
+Player 1 wins this round.
+
+Player 1 (21 cards): 9
+Player 2 (19 cards): 4
+Player 1 wins this round.
+
+Player 1 (22 cards): 8
+Player 2 (18 cards): 6
+Player 1 wins this round.
+
+Player 1 (23 cards): 6
+Player 2 (17 cards): 3
+Player 1 wins this round.
+
+Player 1 (24 cards): 6
+Player 2 (16 cards): 8
+Player 2 wins this round.
+
+Player 1 (23 cards): 4
+Player 2 (17 cards): 5
+Player 2 wins this round.
+
+Player 1 (22 cards): 10
+Player 2 (18 cards): 3
+Player 1 wins this round.
+
+Player 1 (23 cards): 5
+Player 2 (17 cards): 1
+Player 1 wins this round.
+
+Player 1 (24 cards): 7
+Player 2 (16 cards): 10
+Player 2 wins this round.
+
+Player 1 (23 cards): 4
+Player 2 (17 cards): 9
+Player 2 wins this round.
+
+Player 1 (22 cards): 9
+Player 2 (18 cards): 1
+Player 1 wins this round.
+
+Player 1 (23 cards): 7
+Player 2 (17 cards): 4
+Player 1 wins this round.
+
+Player 1 (24 cards): 10
+Player 2 (16 cards): 9
+Player 1 wins this round.
+
+Player 1 (25 cards): 6
+Player 2 (15 cards): 1
+Player 1 wins this round.
+
+Player 1 (26 cards): 10
+Player 2 (14 cards): 4
+Player 1 wins this round.
+
+Player 1 (27 cards): 5
+Player 2 (13 cards): 9
+Player 2 wins this round.
+
+Player 1 (26 cards): 9
+Player 2 (14 cards): 4
+Player 1 wins this round.
+
+Player 1 (27 cards): 8
+Player 2 (13 cards): 8
+No winner in this round.
+
+Player 1 (26 cards): 5
+Player 2 (12 cards): 10
+Player 2 wins this round.
+
+Player 1 (25 cards): 1
+Player 2 (15 cards): 7
+Player 2 wins this round.
+
+Player 1 (24 cards): 10
+Player 2 (16 cards): 8
+Player 1 wins this round.
+
+Player 1 (25 cards): 7
+Player 2 (15 cards): 6
+Player 1 wins this round.
+
+Player 1 (26 cards): 9
+Player 2 (14 cards): 5
+Player 1 wins this round.
+
+Player 1 (27 cards): 4
+Player 2 (13 cards): 4
+No winner in this round.
+
+Player 1 (26 cards): 8
+Player 2 (12 cards): 10
+Player 2 wins this round.
+
+Player 1 (25 cards): 6
+Player 2 (15 cards): 7
+Player 2 wins this round.
+
+Player 1 (24 cards): 6
+Player 2 (16 cards): 9
+Player 2 wins this round.
+
+Player 1 (23 cards): 3
+Player 2 (17 cards): 4
+Player 2 wins this round.
+
+Player 1 (22 cards): 10
+Player 2 (18 cards): 10
+No winner in this round.
+
+Player 1 (21 cards): 3
+Player 2 (17 cards): 5
+Player 2 wins this round.
+
+Player 1 (20 cards): 5
+Player 2 (20 cards): 8
+Player 2 wins this round.
+
+Player 1 (19 cards): 1
+Player 2 (21 cards): 4
+Player 2 wins this round.
+
+Player 1 (18 cards): 9
+Player 2 (22 cards): 8
+Player 1 wins this round.
+
+Player 1 (19 cards): 1
+Player 2 (21 cards): 9
+Player 2 wins this round.
+
+Player 1 (18 cards): 7
+Player 2 (22 cards): 7
+No winner in this round.
+
+Player 1 (17 cards): 4
+Player 2 (21 cards): 10
+Player 2 wins this round.
+
+Player 1 (16 cards): 10
+Player 2 (24 cards): 1
+Player 1 wins this round.
+
+Player 1 (17 cards): 9
+Player 2 (23 cards): 5
+Player 1 wins this round.
+
+Player 1 (18 cards): 6
+Player 2 (22 cards): 8
+Player 2 wins this round.
+
+Player 1 (17 cards): 1
+Player 2 (23 cards): 4
+Player 2 wins this round.
+
+Player 1 (16 cards): 10
+Player 2 (24 cards): 7
+Player 1 wins this round.
+
+Player 1 (17 cards): 4
+Player 2 (23 cards): 6
+Player 2 wins this round.
+
+Player 1 (16 cards): 9
+Player 2 (24 cards): 9
+No winner in this round.
+
+Player 1 (15 cards): 4
+Player 2 (23 cards): 6
+Player 2 wins this round.
+
+Player 1 (14 cards): 10
+Player 2 (26 cards): 4
+Player 1 wins this round.
+
+Player 1 (15 cards): 8
+Player 2 (25 cards): 3
+Player 1 wins this round.
+
+Player 1 (16 cards): 7
+Player 2 (24 cards): 1
+Player 1 wins this round.
+
+Player 1 (17 cards): 6
+Player 2 (23 cards): 5
+Player 1 wins this round.
+
+Player 1 (18 cards): 9
+Player 2 (22 cards): 1
+Player 1 wins this round.
+
+Player 1 (19 cards): 5
+Player 2 (21 cards): 8
+Player 2 wins this round.
+
+Player 1 (18 cards): 9
+Player 2 (22 cards): 10
+Player 2 wins this round.
+
+Player 1 (17 cards): 8
+Player 2 (23 cards): 4
+Player 1 wins this round.
+
+Player 1 (18 cards): 10
+Player 2 (22 cards): 5
+Player 1 wins this round.
+
+Player 1 (19 cards): 1
+Player 2 (21 cards): 6
+Player 2 wins this round.
+
+Player 1 (18 cards): 9
+Player 2 (22 cards): 4
+Player 1 wins this round.
+
+Player 1 (19 cards): 5
+Player 2 (21 cards): 9
+Player 2 wins this round.
+
+Player 1 (18 cards): 10
+Player 2 (22 cards): 4
+Player 1 wins this round.
+
+Player 1 (19 cards): 7
+Player 2 (21 cards): 10
+Player 2 wins this round.
+
+Player 1 (18 cards): 10
+Player 2 (22 cards): 7
+Player 1 wins this round.
+
+Player 1 (19 cards): 4
+Player 2 (21 cards): 4
+No winner in this round.
+
+Player 1 (18 cards): 8
+Player 2 (20 cards): 9
+Player 2 wins this round.
+
+Player 1 (17 cards): 3
+Player 2 (23 cards): 4
+Player 2 wins this round.
+
+Player 1 (16 cards): 7
+Player 2 (24 cards): 3
+Player 1 wins this round.
+
+Player 1 (17 cards): 1
+Player 2 (23 cards): 6
+Player 2 wins this round.
+
+Player 1 (16 cards): 6
+Player 2 (24 cards): 6
+No winner in this round.
+
+Player 1 (15 cards): 5
+Player 2 (23 cards): 8
+Player 2 wins this round.
+
+Player 1 (14 cards): 9
+Player 2 (26 cards): 9
+No winner in this round.
+
+Player 1 (13 cards): 1
+Player 2 (25 cards): 7
+Player 2 wins this round.
+
+Player 1 (12 cards): 8
+Player 2 (28 cards): 10
+Player 2 wins this round.
+
+Player 1 (11 cards): 4
+Player 2 (29 cards): 1
+Player 1 wins this round.
+
+Player 1 (12 cards): 10
+Player 2 (28 cards): 6
+Player 1 wins this round.
+
+Player 1 (13 cards): 5
+Player 2 (27 cards): 7
+Player 2 wins this round.
+
+Player 1 (12 cards): 9
+Player 2 (28 cards): 9
+No winner in this round.
+
+Player 1 (11 cards): 4
+Player 2 (27 cards): 8
+Player 2 wins this round.
+
+Player 1 (10 cards): 10
+Player 2 (30 cards): 4
+Player 1 wins this round.
+
+Player 1 (11 cards): 4
+Player 2 (29 cards): 9
+Player 2 wins this round.
+
+Player 1 (10 cards): 10
+Player 2 (30 cards): 6
+Player 1 wins this round.
+
+Player 1 (11 cards): 7
+Player 2 (29 cards): 5
+Player 1 wins this round.
+
+Player 1 (12 cards): 7
+Player 2 (28 cards): 9
+Player 2 wins this round.
+
+Player 1 (11 cards): 3
+Player 2 (29 cards): 3
+No winner in this round.
+
+Player 1 (10 cards): 4
+Player 2 (28 cards): 10
+Player 2 wins this round.
+
+Player 1 (9 cards): 1
+Player 2 (31 cards): 8
+Player 2 wins this round.
+
+Player 1 (8 cards): 10
+Player 2 (32 cards): 8
+Player 1 wins this round.
+
+Player 1 (9 cards): 6
+Player 2 (31 cards): 5
+Player 1 wins this round.
+
+Player 1 (10 cards): 10
+Player 2 (30 cards): 6
+Player 1 wins this round.
+
+Player 1 (11 cards): 4
+Player 2 (29 cards): 7
+Player 2 wins this round.
+
+Player 1 (10 cards): 10
+Player 2 (30 cards): 5
+Player 1 wins this round.
+
+Player 1 (11 cards): 6
+Player 2 (29 cards): 1
+Player 1 wins this round.
+
+Player 1 (12 cards): 7
+Player 2 (28 cards): 4
+Player 1 wins this round.
+
+Player 1 (13 cards): 5
+Player 2 (27 cards): 1
+Player 1 wins this round.
+
+Player 1 (14 cards): 10
+Player 2 (26 cards): 6
+Player 1 wins this round.
+
+Player 1 (15 cards): 8
+Player 2 (25 cards): 10
+Player 2 wins this round.
+
+Player 1 (14 cards): 6
+Player 2 (26 cards): 1
+Player 1 wins this round.
+
+Player 1 (15 cards): 5
+Player 2 (25 cards): 9
+Player 2 wins this round.
+
+Player 1 (14 cards): 10
+Player 2 (26 cards): 4
+Player 1 wins this round.
+
+Player 1 (15 cards): 6
+Player 2 (25 cards): 9
+Player 2 wins this round.
+
+Player 1 (14 cards): 10
+Player 2 (26 cards): 10
+No winner in this round.
+
+Player 1 (13 cards): 5
+Player 2 (25 cards): 8
+Player 2 wins this round.
+
+Player 1 (12 cards): 6
+Player 2 (28 cards): 8
+Player 2 wins this round.
+
+Player 1 (11 cards): 1
+Player 2 (29 cards): 4
+Player 2 wins this round.
+
+Player 1 (10 cards): 7
+Player 2 (30 cards): 10
+Player 2 wins this round.
+
+Player 1 (9 cards): 4
+Player 2 (31 cards): 9
+Player 2 wins this round.
+
+Player 1 (8 cards): 5
+Player 2 (32 cards): 9
+Player 2 wins this round.
+
+Player 1 (7 cards): 1
+Player 2 (33 cards): 9
+Player 2 wins this round.
+
+Player 1 (6 cards): 10
+Player 2 (34 cards): 10
+No winner in this round.
+
+Player 1 (5 cards): 6
+Player 2 (33 cards): 3
+Player 1 wins this round.
+
+Player 1 (8 cards): 6
+Player 2 (32 cards): 8
+Player 2 wins this round.
+
+Player 1 (7 cards): 1
+Player 2 (33 cards): 7
+Player 2 wins this round.
+
+Player 1 (6 cards): 10
+Player 2 (34 cards): 5
+Player 1 wins this round.
+
+Player 1 (7 cards): 4
+Player 2 (33 cards): 1
+Player 1 wins this round.
+
+Player 1 (8 cards): 3
+Player 2 (32 cards): 4
+Player 2 wins this round.
+
+Player 1 (7 cards): 6
+Player 2 (33 cards): 9
+Player 2 wins this round.
+
+Player 1 (6 cards): 10
+Player 2 (34 cards): 7
+Player 1 wins this round.
+
+Player 1 (7 cards): 10
+Player 2 (33 cards): 6
+Player 1 wins this round.
+
+Player 1 (8 cards): 10
+Player 2 (32 cards): 10
+No winner in this round.
+
+Player 1 (6 cards): 4
+Player 2 (30 cards): 9
+Player 2 wins this round.
+
+Player 1 (5 cards): 1
+Player 2 (35 cards): 3
+Player 2 wins this round.
+
+Player 1 (4 cards): 10
+Player 2 (36 cards): 9
+Player 1 wins this round.
+
+Player 1 (5 cards): 7
+Player 2 (35 cards): 4
+Player 1 wins this round.
+
+Player 1 (6 cards): 10
+Player 2 (34 cards): 5
+Player 1 wins this round.
+
+Player 1 (7 cards): 6
+Player 2 (33 cards): 8
+Player 2 wins this round.
+
+Player 1 (6 cards): 10
+Player 2 (34 cards): 7
+Player 1 wins this round.
+
+Player 1 (7 cards): 9
+Player 2 (33 cards): 10
+Player 2 wins this round.
+
+Player 1 (6 cards): 7
+Player 2 (34 cards): 8
+Player 2 wins this round.
+
+Player 1 (5 cards): 4
+Player 2 (35 cards): 4
+No winner in this round.
+
+Player 1 (4 cards): 10
+Player 2 (34 cards): 9
+Player 1 wins this round.
+
+Player 1 (7 cards): 5
+Player 2 (33 cards): 6
+Player 2 wins this round.
+
+Player 1 (6 cards): 10
+Player 2 (34 cards): 4
+Player 1 wins this round.
+
+Player 1 (7 cards): 10
+Player 2 (33 cards): 4
+Player 1 wins this round.
+
+Player 1 (8 cards): 4
+Player 2 (32 cards): 3
+Player 1 wins this round.
+
+Player 1 (9 cards): 9
+Player 2 (31 cards): 4
+Player 1 wins this round.
+
+Player 1 (10 cards): 7
+Player 2 (30 cards): 7
+No winner in this round.
+
+Player 1 (9 cards): 4
+Player 2 (29 cards): 5
+Player 2 wins this round.
+
+Player 1 (8 cards): 10
+Player 2 (32 cards): 8
+Player 1 wins this round.
+
+Player 1 (9 cards): 4
+Player 2 (31 cards): 10
+Player 2 wins this round.
+
+Player 1 (8 cards): 10
+Player 2 (32 cards): 9
+Player 1 wins this round.
+
+Player 1 (9 cards): 4
+Player 2 (31 cards): 1
+Player 1 wins this round.
+
+Player 1 (10 cards): 4
+Player 2 (30 cards): 9
+Player 2 wins this round.
+
+Player 1 (9 cards): 3
+Player 2 (31 cards): 9
+Player 2 wins this round.
+
+Player 1 (8 cards): 9
+Player 2 (32 cards): 4
+Player 1 wins this round.
+
+Player 1 (9 cards): 4
+Player 2 (31 cards): 1
+Player 1 wins this round.
+
+Player 1 (10 cards): 10
+Player 2 (30 cards): 10
+No winner in this round.
+
+Player 1 (8 cards): 10
+Player 2 (28 cards): 7
+Player 1 wins this round.
+
+Player 1 (13 cards): 9
+Player 2 (27 cards): 6
+Player 1 wins this round.
+
+Player 1 (14 cards): 4
+Player 2 (26 cards): 9
+Player 2 wins this round.
+
+Player 1 (13 cards): 1
+Player 2 (27 cards): 1
+No winner in this round.
+
+Player 1 (12 cards): 9
+Player 2 (26 cards): 6
+Player 1 wins this round.
+
+Player 1 (15 cards): 4
+Player 2 (25 cards): 5
+Player 2 wins this round.
+
+Player 1 (14 cards): 4
+Player 2 (26 cards): 10
+Player 2 wins this round.
+
+Player 1 (13 cards): 1
+Player 2 (27 cards): 5
+Player 2 wins this round.
+
+Player 1 (12 cards): 8
+Player 2 (28 cards): 3
+Player 1 wins this round.
+
+Player 1 (13 cards): 9
+Player 2 (27 cards): 1
+Player 1 wins this round.
+
+Player 1 (14 cards): 8
+Player 2 (26 cards): 8
+No winner in this round.
+
+Player 1 (13 cards): 1
+Player 2 (25 cards): 6
+Player 2 wins this round.
+
+Player 1 (12 cards): 7
+Player 2 (28 cards): 10
+Player 2 wins this round.
+
+Player 1 (11 cards): 10
+Player 2 (29 cards): 9
+Player 1 wins this round.
+
+Player 1 (12 cards): 6
+Player 2 (28 cards): 8
+Player 2 wins this round.
+
+Player 1 (11 cards): 9
+Player 2 (29 cards): 7
+Player 1 wins this round.
+
+Player 1 (12 cards): 10
+Player 2 (28 cards): 10
+No winner in this round.
+
+Player 1 (11 cards): 10
+Player 2 (27 cards): 1
+Player 1 wins this round.
+
+Player 1 (14 cards): 6
+Player 2 (26 cards): 5
+Player 1 wins this round.
+
+Player 1 (15 cards): 1
+Player 2 (25 cards): 6
+Player 2 wins this round.
+
+Player 1 (14 cards): 7
+Player 2 (26 cards): 8
+Player 2 wins this round.
+
+Player 1 (13 cards): 9
+Player 2 (27 cards): 8
+Player 1 wins this round.
+
+Player 1 (14 cards): 10
+Player 2 (26 cards): 9
+Player 1 wins this round.
+
+Player 1 (15 cards): 10
+Player 2 (25 cards): 4
+Player 1 wins this round.
+
+Player 1 (16 cards): 10
+Player 2 (24 cards): 9
+Player 1 wins this round.
+
+Player 1 (17 cards): 1
+Player 2 (23 cards): 5
+Player 2 wins this round.
+
+Player 1 (16 cards): 3
+Player 2 (24 cards): 5
+Player 2 wins this round.
+
+Player 1 (15 cards): 9
+Player 2 (25 cards): 10
+Player 2 wins this round.
+
+Player 1 (14 cards): 1
+Player 2 (26 cards): 5
+Player 2 wins this round.
+
+Player 1 (13 cards): 10
+Player 2 (27 cards): 7
+Player 1 wins this round.
+
+Player 1 (14 cards): 9
+Player 2 (26 cards): 1
+Player 1 wins this round.
+
+Player 1 (15 cards): 8
+Player 2 (25 cards): 4
+Player 1 wins this round.
+
+Player 1 (16 cards): 6
+Player 2 (24 cards): 7
+Player 2 wins this round.
+
+Player 1 (15 cards): 5
+Player 2 (25 cards): 3
+Player 1 wins this round.
+
+Player 1 (16 cards): 9
+Player 2 (24 cards): 4
+Player 1 wins this round.
+
+Player 1 (17 cards): 8
+Player 2 (23 cards): 6
+Player 1 wins this round.
+
+Player 1 (18 cards): 10
+Player 2 (22 cards): 4
+Player 1 wins this round.
+
+Player 1 (19 cards): 9
+Player 2 (21 cards): 9
+No winner in this round.
+
+Player 1 (18 cards): 10
+Player 2 (20 cards): 4
+Player 1 wins this round.
+
+Player 1 (21 cards): 4
+Player 2 (19 cards): 4
+No winner in this round.
+
+Player 1 (19 cards): 9
+Player 2 (17 cards): 7
+Player 1 wins this round.
+
+Player 1 (24 cards): 10
+Player 2 (16 cards): 8
+Player 1 wins this round.
+
+Player 1 (25 cards): 7
+Player 2 (15 cards): 6
+Player 1 wins this round.
+
+Player 1 (26 cards): 9
+Player 2 (14 cards): 6
+Player 1 wins this round.
+
+Player 1 (27 cards): 1
+Player 2 (13 cards): 1
+No winner in this round.
+
+Player 1 (25 cards): 4
+Player 2 (11 cards): 7
+Player 2 wins this round.
+
+Player 1 (24 cards): 5
+Player 2 (16 cards): 5
+No winner in this round.
+
+Player 1 (23 cards): 3
+Player 2 (15 cards): 1
+Player 1 wins this round.
+
+Player 1 (26 cards): 8
+Player 2 (14 cards): 5
+Player 1 wins this round.
+
+Player 1 (27 cards): 4
+Player 2 (13 cards): 3
+Player 1 wins this round.
+
+Player 1 (28 cards): 3
+Player 2 (12 cards): 10
+Player 2 wins this round.
+
+Player 1 (27 cards): 8
+Player 2 (13 cards): 9
+Player 2 wins this round.
+
+Player 1 (26 cards): 4
+Player 2 (14 cards): 5
+Player 2 wins this round.
+
+Player 1 (25 cards): 10
+Player 2 (15 cards): 1
+Player 1 wins this round.
+
+Player 1 (26 cards): 9
+Player 2 (14 cards): 7
+Player 1 wins this round.
+
+Player 1 (27 cards): 9
+Player 2 (13 cards): 6
+Player 1 wins this round.
+
+Player 1 (28 cards): 5
+Player 2 (12 cards): 8
+Player 2 wins this round.
+
+Player 1 (27 cards): 4
+Player 2 (13 cards): 8
+Player 2 wins this round.
+
+Player 1 (26 cards): 6
+Player 2 (14 cards): 4
+Player 1 wins this round.
+
+Player 1 (27 cards): 1
+Player 2 (13 cards): 1
+No winner in this round.
+
+Player 1 (26 cards): 10
+Player 2 (12 cards): 7
+Player 1 wins this round.
+
+Player 1 (29 cards): 9
+Player 2 (11 cards): 1
+Player 1 wins this round.
+
+Player 1 (30 cards): 9
+Player 2 (10 cards): 10
+Player 2 wins this round.
+
+Player 1 (29 cards): 7
+Player 2 (11 cards): 3
+Player 1 wins this round.
+
+Player 1 (30 cards): 5
+Player 2 (10 cards): 9
+Player 2 wins this round.
+
+Player 1 (29 cards): 6
+Player 2 (11 cards): 8
+Player 2 wins this round.
+
+Player 1 (28 cards): 4
+Player 2 (12 cards): 5
+Player 2 wins this round.
+
+Player 1 (27 cards): 10
+Player 2 (13 cards): 4
+Player 1 wins this round.
+
+Player 1 (28 cards): 10
+Player 2 (12 cards): 8
+Player 1 wins this round.
+
+Player 1 (29 cards): 10
+Player 2 (11 cards): 5
+Player 1 wins this round.
+
+Player 1 (30 cards): 6
+Player 2 (10 cards): 8
+Player 2 wins this round.
+
+Player 1 (29 cards): 9
+Player 2 (11 cards): 4
+Player 1 wins this round.
+
+Player 1 (30 cards): 4
+Player 2 (10 cards): 10
+Player 2 wins this round.
+
+Player 1 (29 cards): 7
+Player 2 (11 cards): 9
+Player 2 wins this round.
+
+Player 1 (28 cards): 10
+Player 2 (12 cards): 9
+Player 1 wins this round.
+
+Player 1 (29 cards): 9
+Player 2 (11 cards): 5
+Player 1 wins this round.
+
+Player 1 (30 cards): 5
+Player 2 (10 cards): 8
+Player 2 wins this round.
+
+Player 1 (29 cards): 8
+Player 2 (11 cards): 6
+Player 1 wins this round.
+
+Player 1 (30 cards): 3
+Player 2 (10 cards): 5
+Player 2 wins this round.
+
+Player 1 (29 cards): 1
+Player 2 (11 cards): 4
+Player 2 wins this round.
+
+Player 1 (28 cards): 7
+Player 2 (12 cards): 8
+Player 2 wins this round.
+
+Player 1 (27 cards): 10
+Player 2 (13 cards): 6
+Player 1 wins this round.
+
+Player 1 (28 cards): 6
+Player 2 (12 cards): 10
+Player 2 wins this round.
+
+Player 1 (27 cards): 1
+Player 2 (13 cards): 4
+Player 2 wins this round.
+
+Player 1 (26 cards): 7
+Player 2 (14 cards): 9
+Player 2 wins this round.
+
+Player 1 (25 cards): 1
+Player 2 (15 cards): 7
+Player 2 wins this round.
+
+Player 1 (24 cards): 4
+Player 2 (16 cards): 8
+Player 2 wins this round.
+
+Player 1 (23 cards): 6
+Player 2 (17 cards): 5
+Player 1 wins this round.
+
+Player 1 (24 cards): 9
+Player 2 (16 cards): 5
+Player 1 wins this round.
+
+Player 1 (25 cards): 4
+Player 2 (15 cards): 3
+Player 1 wins this round.
+
+Player 1 (26 cards): 9
+Player 2 (14 cards): 4
+Player 1 wins this round.
+
+Player 1 (27 cards): 1
+Player 2 (13 cards): 1
+No winner in this round.
+
+Player 1 (26 cards): 7
+Player 2 (12 cards): 8
+Player 2 wins this round.
+
+Player 1 (25 cards): 3
+Player 2 (15 cards): 7
+Player 2 wins this round.
+
+Player 1 (24 cards): 10
+Player 2 (16 cards): 10
+No winner in this round.
+
+Player 1 (23 cards): 4
+Player 2 (15 cards): 6
+Player 2 wins this round.
+
+Player 1 (22 cards): 10
+Player 2 (18 cards): 4
+Player 1 wins this round.
+
+Player 1 (23 cards): 8
+Player 2 (17 cards): 1
+Player 1 wins this round.
+
+Player 1 (24 cards): 10
+Player 2 (16 cards): 9
+Player 1 wins this round.
+
+Player 1 (25 cards): 5
+Player 2 (15 cards): 7
+Player 2 wins this round.
+
+Player 1 (24 cards): 9
+Player 2 (16 cards): 7
+Player 1 wins this round.
+
+Player 1 (25 cards): 4
+Player 2 (15 cards): 1
+Player 1 wins this round.
+
+Player 1 (26 cards): 10
+Player 2 (14 cards): 8
+Player 1 wins this round.
+
+Player 1 (27 cards): 9
+Player 2 (13 cards): 4
+Player 1 wins this round.
+
+Player 1 (28 cards): 9
+Player 2 (12 cards): 4
+Player 1 wins this round.
+
+Player 1 (29 cards): 5
+Player 2 (11 cards): 1
+Player 1 wins this round.
+
+Player 1 (30 cards): 8
+Player 2 (10 cards): 7
+Player 1 wins this round.
+
+Player 1 (31 cards): 6
+Player 2 (9 cards): 1
+Player 1 wins this round.
+
+Player 1 (32 cards): 10
+Player 2 (8 cards): 10
+No winner in this round.
+
+Player 1 (31 cards): 6
+Player 2 (7 cards): 3
+Player 1 wins this round.
+
+Player 1 (34 cards): 6
+Player 2 (6 cards): 7
+Player 2 wins this round.
+
+Player 1 (33 cards): 5
+Player 2 (7 cards): 8
+Player 2 wins this round.
+
+Player 1 (32 cards): 9
+Player 2 (8 cards): 10
+Player 2 wins this round.
+
+Player 1 (31 cards): 5
+Player 2 (9 cards): 6
+Player 2 wins this round.
+
+Player 1 (30 cards): 4
+Player 2 (10 cards): 7
+Player 2 wins this round.
+
+Player 1 (29 cards): 3
+Player 2 (11 cards): 5
+Player 2 wins this round.
+
+Player 1 (28 cards): 9
+Player 2 (12 cards): 7
+Player 1 wins this round.
+
+Player 1 (29 cards): 4
+Player 2 (11 cards): 6
+Player 2 wins this round.
+
+Player 1 (28 cards): 10
+Player 2 (12 cards): 8
+Player 1 wins this round.
+
+Player 1 (29 cards): 4
+Player 2 (11 cards): 5
+Player 2 wins this round.
+
+Player 1 (28 cards): 8
+Player 2 (12 cards): 10
+Player 2 wins this round.
+
+Player 1 (27 cards): 1
+Player 2 (13 cards): 9
+Player 2 wins this round.
+
+Player 1 (26 cards): 10
+Player 2 (14 cards): 6
+Player 1 wins this round.
+
+Player 1 (27 cards): 9
+Player 2 (13 cards): 5
+Player 1 wins this round.
+
+Player 1 (28 cards): 9
+Player 2 (12 cards): 7
+Player 1 wins this round.
+
+Player 1 (29 cards): 7
+Player 2 (11 cards): 4
+Player 1 wins this round.
+
+Player 1 (30 cards): 4
+Player 2 (10 cards): 5
+Player 2 wins this round.
+
+Player 1 (29 cards): 1
+Player 2 (11 cards): 3
+Player 2 wins this round.
+
+Player 1 (28 cards): 10
+Player 2 (12 cards): 6
+Player 1 wins this round.
+
+Player 1 (29 cards): 9
+Player 2 (11 cards): 4
+Player 1 wins this round.
+
+Player 1 (30 cards): 8
+Player 2 (10 cards): 5
+Player 1 wins this round.
+
+Player 1 (31 cards): 10
+Player 2 (9 cards): 4
+Player 1 wins this round.
+
+Player 1 (32 cards): 1
+Player 2 (8 cards): 10
+Player 2 wins this round.
+
+Player 1 (31 cards): 6
+Player 2 (9 cards): 8
+Player 2 wins this round.
+
+Player 1 (30 cards): 3
+Player 2 (10 cards): 9
+Player 2 wins this round.
+
+Player 1 (29 cards): 4
+Player 2 (11 cards): 1
+Player 1 wins this round.
+
+Player 1 (30 cards): 9
+Player 2 (10 cards): 5
+Player 1 wins this round.
+
+Player 1 (31 cards): 1
+Player 2 (9 cards): 4
+Player 2 wins this round.
+
+Player 1 (30 cards): 8
+Player 2 (10 cards): 3
+Player 1 wins this round.
+
+Player 1 (31 cards): 10
+Player 2 (9 cards): 1
+Player 1 wins this round.
+
+Player 1 (32 cards): 4
+Player 2 (8 cards): 10
+Player 2 wins this round.
+
+Player 1 (31 cards): 7
+Player 2 (9 cards): 1
+Player 1 wins this round.
+
+Player 1 (32 cards): 6
+Player 2 (8 cards): 8
+Player 2 wins this round.
+
+Player 1 (31 cards): 5
+Player 2 (9 cards): 6
+Player 2 wins this round.
+
+Player 1 (30 cards): 9
+Player 2 (10 cards): 9
+No winner in this round.
+
+Player 1 (29 cards): 7
+Player 2 (9 cards): 3
+Player 1 wins this round.
+
+Player 1 (32 cards): 10
+Player 2 (8 cards): 4
+Player 1 wins this round.
+
+Player 1 (33 cards): 8
+Player 2 (7 cards): 1
+Player 1 wins this round.
+
+Player 1 (34 cards): 10
+Player 2 (6 cards): 10
+No winner in this round.
+
+Player 1 (33 cards): 6
+Player 2 (5 cards): 4
+Player 1 wins this round.
+
+Player 1 (36 cards): 9
+Player 2 (4 cards): 8
+Player 1 wins this round.
+
+Player 1 (37 cards): 5
+Player 2 (3 cards): 6
+Player 2 wins this round.
+
+Player 1 (36 cards): 9
+Player 2 (4 cards): 6
+Player 1 wins this round.
+
+Player 1 (37 cards): 7
+Player 2 (3 cards): 5
+Player 1 wins this round.
+
+Player 1 (38 cards): 7
+Player 2 (2 cards): 6
+Player 1 wins this round.
+
+Player 1 (39 cards): 4
+Player 2 (1 cards): 5
+Player 2 wins this round.
+
+Player 1 (38 cards): 10
+Player 2 (2 cards): 5
+Player 1 wins this round.
+
+Player 1 (39 cards): 8
+Player 2 (1 cards): 4
+Player 1 wins this round.
+
+Player 1 wins the game.
+anesmemisevic@Aness-MacBook-Air src % 
